@@ -1,6 +1,6 @@
 # Google Cloud Builders
 
-A set of builders for the Google Cloud Builder pipline.
+A set of builders for the Google Cloud Builder pipeline.
 
 
 1. [A Cloud Builder for the Angular CLI](https://github.com/sfeir-open-source/angular-cloud-builders/tree/master/ng)
