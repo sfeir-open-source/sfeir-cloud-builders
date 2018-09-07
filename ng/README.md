@@ -1,6 +1,6 @@
 # The ng (Angular CLI) Cloud Builders
 
-This build step invokes the `ng` command provided by the [Angular CLI](https://github.com/angular/angular-cli) for the [Google Cloud Build](cloud.google.com/cloud-build/).
+This build step invokes the `ng` command provided by the [Angular CLI](https://github.com/angular/angular-cli) for [Google Cloud Build](https://cloud.google.com/cloud-build/).
 
 Arguments passed to this builder will be passed to the `ng` command directly,
 allowing callers to run [any `ng`
@@ -17,7 +17,7 @@ For convenience, we have included different versions of the Angular CLI:
 
 ## How to use?
 
-In order to use call one of these builder, simply invoke the builder (and version), for instance:
+In order to use one of these builder, simply invoke the builder (and version), for instance:
 
 ```
 steps:
